@@ -9,10 +9,10 @@ This project is designed to get you acquainted with the many techniques for trai
 
 ## Things you will learn by completing this project:
 
-How to explore data and observe features.
-How to train and test models.
-How to identify potential problems, such as errors due to bias or variance.
-How to apply techniques to improve the model, such as cross-validation and grid search.
+- How to explore data and observe features.
+- How to train and test models.
+- How to identify potential problems, such as errors due to bias or variance.
+- How to apply techniques to improve the model, such as cross-validation and grid search.
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
